@@ -1,2 +1,3 @@
 # QabanaV2
-Qabana v2
+Qabana V2 B.C
+
